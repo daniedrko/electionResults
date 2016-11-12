@@ -1,0 +1,8 @@
+name: pastpolls
+account: dk-o
+server: shinyapps.io
+bundleId: 610609
+url: https://dk-o.shinyapps.io/pastpolls/
+when: 1478739317.64221
+asMultiple: FALSE
+asStatic: FALSE
